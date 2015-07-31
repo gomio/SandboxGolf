@@ -94,7 +94,7 @@
 	bolaxini = {}                 -- posición de partida de bola para cada jugador  
 	flag_finhoyo = {}             -- flag de hoyo finalizado para los 2 jugadores   
 	
-	-- Datos de los 18 hoyos (coordenadas de texto y gráficas de ZX-Spectrum):    
+	-- Datos de los 18 hoyos (pantalla 32x24 bloques gráficos):                   
 	-- 0:green, 1:arena1, 2:arena2, 3:agua, 4:árboles, 5:distancia, 6:par         
 	-- mapas = {{25,12,0,17,8,210,4}, {10,5,15,0,0,90,3},  {15,8,0,0,19,123,3},   
 	--       {16,20,0,10,25,140,3}, {25,17,21,0,0,210,4},  {20,10,0,0,17,165,4},  
