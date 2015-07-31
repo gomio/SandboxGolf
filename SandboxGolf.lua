@@ -288,7 +288,7 @@ end
 
 function iniciar_juego()
 
-  hoyo = 18
+  hoyo = 1
   score[1] = 0
   score[2] = 0
   scorep[1] = 0
@@ -304,7 +304,7 @@ function iniciar_hoyo()
 
   distancia = mapas[hoyo][5]
 	par = mapas[hoyo][6]
-	bolax = 10
+	bolax = 5
 	bolay = SUELO-5
 	bolaxini[1]  = 5
 	bolaxini[2] = 5
